@@ -1,3 +1,3 @@
-TARGET = helloworld
+TARGET = hellolib
 SOURCES += main.cpp
 QT += widgets
